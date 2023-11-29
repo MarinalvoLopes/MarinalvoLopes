@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá sou Marinalvo Lopes, sou um programador Front End. atualmente estou aprendendo e criando projetos com:
+Olá sou Marinalvo Lopes, sou Desenvolvedor de software. atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='js-logo'/>
